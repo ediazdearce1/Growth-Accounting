@@ -2,10 +2,12 @@ month,customer_id,customer_name,total_sales,orders
 2019-01,1,Shawn,10,1
 2019-02,1,Shawn,,2
 2019-02,2,Gus,,1
+2019-03,0,0,0,0
 2019-04,1,Shawn,,1
 2019-04,12,Shawn,,1
 2019-05,1,Shawn,,1
 2019-05,2,Gus,,1
+2019-06,0,0,0,0
 2019-07,4,Jules,,1
 2019-08,4,Jules,,1
 2019-09,4,Jules,,1
